@@ -1,0 +1,6 @@
+{
+  "clothes": [
+    {"id": 1, "name": "Mont", "category": "dışgiyim"},
+    {"id": 2, "name": "T-shirt", "category": "üst"}
+  ]
+}
