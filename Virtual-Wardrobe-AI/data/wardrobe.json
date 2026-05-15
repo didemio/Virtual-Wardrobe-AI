@@ -1,6 +1,9 @@
 {
   "clothes": [
-    {"id": 1, "name": "Mont", "category": "dışgiyim"},
-    {"id": 2, "name": "T-shirt", "category": "üst"}
+    {"id": 1, "name": "Winter Coat", "category": "outerwear"},
+    {"id": 2, "name": "White T-shirt", "category": "tops"},
+    {"id": 3, "name": "Blue Jeans", "category": "bottoms"},
+    {"id": 4, "name": "Sneakers", "category": "shoes"},
+    {"id": 5, "name": "Baseball Cap", "category": "accessories"}
   ]
 }
